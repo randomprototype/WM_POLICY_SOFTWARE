@@ -14,9 +14,7 @@ This application is sometimes suspended due to inactivity. To reactivate it, sim
 
 ## On the maintenance policy model
 
-The basis of this software is the model described in the paper **"On periodic maintenance for a protection system"**, by Phil Scarf, Naif Mohammed Alotaibi, Cristiano A.V. Cavalcante, Augusto J.S. Rodrigues and Yan R. Melo.
-
-The article is currently under review, and the link to access it will be made available after acceptance.
+The basis of this software is the model described in the paper **"Planning maintenance when resources are limited: a study of periodic opportunistic replacement"**, by Phil Scarf, Naif Mohammed Alotaibi, Cristiano A.V. Cavalcante, Augusto J.S. Rodrigues and Yan R. Melo. (https://doi.org/10.1093/imaman/dpae015)
 
 ## Collaborations
 
